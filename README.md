@@ -1,6 +1,3 @@
-# Booking-app
-Basic Booking program created using Golang.
-
 # Booking App in Go
 This is a basic ticket booking application written in Go.  
 As a Node.js developer, I'm learning Go to expand my skill set.  
